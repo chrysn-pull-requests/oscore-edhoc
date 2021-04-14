@@ -5,13 +5,13 @@
 CoRE Working Group                                          F. Palombini
 Internet-Draft                                                  Ericsson
 Intended status: Standards Track                               M. Tiloca
-Expires: 4 October 2021                                      R. Hoeglund
+Expires: 16 October 2021                                     R. Hoeglund
                                                                  RISE AB
                                                             S. Hristozov
                                                         Fraunhofer AISEC
                                                              G. Selander
                                                                 Ericsson
-                                                            2 April 2021
+                                                           14 April 2021
 
 
                        Combining EDHOC and OSCORE
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 4 October 2021.
+   This Internet-Draft will expire on 16 October 2021.
 
 Copyright Notice
 
