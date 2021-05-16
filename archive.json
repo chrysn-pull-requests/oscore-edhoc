@@ -1,0 +1,106 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2021-05-16T00:52:52.915495+00:00",
+  "repo": "core-wg/oscore-edhoc",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "id": "MDU6SXNzdWU4NjY2OTcwMTI=",
+      "title": "Bring in content from draft-ietf-lake-edhoc",
+      "url": "https://github.com/core-wg/oscore-edhoc/issues/1",
+      "state": "OPEN",
+      "author": "marco-tiloca-sics",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Move Section 7.2.1 and second half of Section 7.2.2 of https://tools.ietf.org/html/draft-ietf-lake-edhoc-06  to this document.\r\n\r\nSee https://github.com/lake-wg/edhoc/issues/75",
+      "createdAt": "2021-04-24T08:50:29Z",
+      "updatedAt": "2021-05-07T14:27:10Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "gselander",
+          "authorAssociation": "COLLABORATOR",
+          "body": "Note PR with new definition of EDHOC-Exporter:\r\nhttps://github.com/lake-wg/edhoc/pull/114\r\n",
+          "createdAt": "2021-05-07T14:27:10Z",
+          "updatedAt": "2021-05-07T14:27:10Z"
+        }
+      ]
+    }
+  ],
+  "pulls": [
+    {
+      "number": 2,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjQwODM3OTEz",
+      "title": "Content from edhoc",
+      "url": "https://github.com/core-wg/oscore-edhoc/pull/2",
+      "state": "OPEN",
+      "author": "marco-tiloca-sics",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-05-11T15:21:43Z",
+      "updatedAt": "2021-05-13T16:09:58Z",
+      "baseRepository": "core-wg/oscore-edhoc",
+      "baseRefName": "v-01",
+      "baseRefOid": "a6b9b7d5d0cb94d18c4c84fda46551f589fb3e28",
+      "headRepository": "core-wg/oscore-edhoc",
+      "headRefName": "content-from-edhoc",
+      "headRefOid": "f37ba57c51a649ca35f7447897b6f743eaa6be15",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
