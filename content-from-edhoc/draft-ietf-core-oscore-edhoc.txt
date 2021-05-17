@@ -249,8 +249,8 @@ Table of Contents
     Master Secret = EDHOC-Exporter( "OSCORE Master Secret", key_length )
     Master Salt   = EDHOC-Exporter( "OSCORE Master Salt", salt_length )
 
-   *  The AEAD Algorithm is the application AEAD of the selected cipher
-      suite for the EDHOC session.
+   *  The AEAD Algorithm is the application AEAD algorithm of the
+      selected cipher suite for the EDHOC session.
 
    *  The HKDF Algorithm is the HKDF algorithm of the selected cipher
       suite for the EDHOC session.
