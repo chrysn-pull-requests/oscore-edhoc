@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-05-16T00:52:52.915495+00:00",
+  "timestamp": "2021-05-18T00:52:36.603461+00:00",
   "repo": "core-wg/oscore-edhoc",
   "labels": [
     {
@@ -88,13 +88,13 @@
       "labels": [],
       "body": "",
       "createdAt": "2021-05-11T15:21:43Z",
-      "updatedAt": "2021-05-13T16:09:58Z",
+      "updatedAt": "2021-05-17T16:03:59Z",
       "baseRepository": "core-wg/oscore-edhoc",
       "baseRefName": "v-01",
       "baseRefOid": "a6b9b7d5d0cb94d18c4c84fda46551f589fb3e28",
       "headRepository": "core-wg/oscore-edhoc",
       "headRefName": "content-from-edhoc",
-      "headRefOid": "f37ba57c51a649ca35f7447897b6f743eaa6be15",
+      "headRefOid": "fd27af7d4af2256238b5d2b37733b820d797c7a3",
       "closedAt": null,
       "mergedAt": null,
       "mergedBy": null,
